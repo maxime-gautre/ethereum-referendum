@@ -1,6 +1,7 @@
 {
   "name": "ethereum-referendum",
   "scripts": {
+    "setup": "truffle init",
     "compile": "truffle compile",
     "deploy": "truffle migrate --reset",
     "client": "testrpc",
